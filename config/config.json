@@ -1,1 +1,30 @@
-
+{
+  "author": "Sakib Ahammed Khan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": true,
+  "language": "bn",
+  "notification": false,
+  "approval": true,
+  "saveState": true,
+  "banMsg": true,
+  "adminOnlyMsg": true,
+  "BOTNAME": "nusrat",
+  "PREFIX": "/",
+  "react": "⚡",
+  "OPERATOR": [
+    "100092253440794",
+    "100092253440794"
+  ],
+  "ADMINBOT": [
+    "100092253440794",
+    "100092253440794"
+  ],
+  "OWNER": ["100092253440794"],
+  "APPROVED": ["sakib"],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "Do not change the author name or owner ID. Otherwise the bot will not work.",
+  "notice": "Use proper appstate and maintain OWNER ID.",
+  "notice2": "saveState true is required if using appstate login."
+}
